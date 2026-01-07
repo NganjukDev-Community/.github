@@ -6,7 +6,7 @@
 
 ## 👋 About Us
 
-NganjukDev adalah komunitas developer dan penggiat IT berbasis di Nganjuk, Jawa Timur, yang didirikan pada 2025 oleh sekelompok mahasiswa dan profesional muda. Kami adalah wadah inklusif untuk siapa saja yang tertarik dengan dunia teknologi informasi—tanpa memandang usia, golongan sosial, atau latar belakang pendidikan. Dari pemula yang baru belajar coding hingga expert di bidang AI, cybersecurity, dan tren IT 2025 seperti quantum computing dan 6G connectivity, semua diterima untuk berkolaborasi, berbagi pengetahuan, dan membangun proyek bersama.
+NganjukDev adalah komunitas developer dan penggiat IT berbasis di Nganjuk, Jawa Timur, yang didirikan pada 2025 oleh sekelompok mahasiswa dan profesional muda. Kami menajdi wadah untuk siapa saja yang tertarik dengan dunia teknologi informasi tanpa memandang usia, golongan sosial, atau latar belakang pendidikan. Dari pemula yang baru belajar coding hingga expert di bidang AI, cybersecurity, dan tren IT setiap tahunnya seperti quantum computing dan 6G connectivity, semua diterima untuk berkolaborasi, berbagi pengetahuan, dan membangun proyek bersama.
 
 ✨ *Code for All, Innovate Together* – Kode untuk semua, inovasi bersama! 
 
@@ -26,12 +26,8 @@ Pastikan kode mengikuti [Code of Conduct](CODE_OF_CONDUCT.md) dan standar kami (
 - **X (Twitter):** [@NganjukDev](https://x.com/NganjukDev) – Tren IT.  
 - **Email:** nganjukdev.idn@gmail.com  
 
-Terima kasih telah bergabung! Mari kita kode dan inovasi bersama untuk Nganjuk yang lebih digital. 🌾💻
+Terima kasih telah bergabung! Mari kita ngoding dan inovasi bersama untuk Nganjuk yang lebih digital. 🌾💻
 
 ---
 
-*Logo & Branding oleh NganjukDev Team. Dibuat dengan ❤️ di Nganjuk, 2025.*  
-
----
-
-> **Catatan:** Ganti link dan nama dengan yang sebenarnya. Jika butuh file tambahan seperti CODE_OF_CONDUCT.md atau TIM.md, beri tahu ya!
+*NganjukDev Community Team. Made with ❤️ di Nganjuk, 2025.*  
